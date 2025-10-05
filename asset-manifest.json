@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c52a41a.css",
-    "main.js": "/static/js/main.5fd7d8ed.js",
-    "static/media/antonPalashek.png": "/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
-    "static/media/sertificat.png": "/static/media/sertificat.0aec8e6a2d38eec234d0.png",
-    "static/media/bgmain.png": "/static/media/bgmain.40e8e438468e604251f5.png",
-    "static/media/Ugo-Zapad.png": "/static/media/Ugo-Zapad.4e4b46926b3af7a1f6d3.png",
-    "static/media/qr.png": "/static/media/qr.7961ca9d9ffb8f10cb59.png",
-    "static/media/kalaturOlena.png": "/static/media/kalaturOlena.91ed7c9e4353fed0a2ca.png",
-    "static/media/fenikRostislav.png": "/static/media/fenikRostislav.bf56b18cbc2b483014f7.png",
-    "static/media/id_card.png": "/static/media/id_card.d137b292a266c2bc816c.png",
-    "static/media/fenikOleg.png": "/static/media/fenikOleg.b278f3fd0dadcac3c2a4.png",
-    "static/media/memCard.png": "/static/media/memCard.b375c309be90e72ef5bd.png",
-    "index.html": "/index.html",
-    "main.4c52a41a.css.map": "/static/css/main.4c52a41a.css.map",
-    "main.5fd7d8ed.js.map": "/static/js/main.5fd7d8ed.js.map"
+    "main.css": "/sanX/static/css/main.4c52a41a.css",
+    "main.js": "/sanX/static/js/main.3eb5d40b.js",
+    "static/media/antonPalashek.png": "/sanX/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
+    "static/media/sertificat.png": "/sanX/static/media/sertificat.0aec8e6a2d38eec234d0.png",
+    "static/media/bgmain.png": "/sanX/static/media/bgmain.40e8e438468e604251f5.png",
+    "static/media/Ugo-Zapad.png": "/sanX/static/media/Ugo-Zapad.4e4b46926b3af7a1f6d3.png",
+    "static/media/qr.png": "/sanX/static/media/qr.7961ca9d9ffb8f10cb59.png",
+    "static/media/kalaturOlena.png": "/sanX/static/media/kalaturOlena.91ed7c9e4353fed0a2ca.png",
+    "static/media/fenikRostislav.png": "/sanX/static/media/fenikRostislav.bf56b18cbc2b483014f7.png",
+    "static/media/id_card.png": "/sanX/static/media/id_card.d137b292a266c2bc816c.png",
+    "static/media/fenikOleg.png": "/sanX/static/media/fenikOleg.b278f3fd0dadcac3c2a4.png",
+    "static/media/memCard.png": "/sanX/static/media/memCard.b375c309be90e72ef5bd.png",
+    "index.html": "/sanX/index.html",
+    "main.4c52a41a.css.map": "/sanX/static/css/main.4c52a41a.css.map",
+    "main.3eb5d40b.js.map": "/sanX/static/js/main.3eb5d40b.js.map"
   },
   "entrypoints": [
     "static/css/main.4c52a41a.css",
-    "static/js/main.5fd7d8ed.js"
+    "static/js/main.3eb5d40b.js"
   ]
 }
