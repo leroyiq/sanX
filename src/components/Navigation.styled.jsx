@@ -23,6 +23,7 @@ export const DIVLOGO = styled.div`
     letter-spacing: 0px;
     color: ${colors.primary};
     text-shadow: #2e2e2e 0 4px 5px;
+    cursor: pointer;
 
     font-weight: normal;
     text-decoration: none;
