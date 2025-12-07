@@ -29,5 +29,5 @@ export const DIVHome = styled.div`
     display: block;
     width: 90%;
     box-shadow: 0px 0px 20px 5px rgba(240, 202, 10, 0.18);
-  }
+  }}
 `;
