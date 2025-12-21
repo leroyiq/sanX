@@ -15,6 +15,10 @@ export const DIVLOGO = styled.div`
     width: 40px;
     border-right: 1px solid ${colors.acent};
     padding-right: 15px;
+
+    @media (min-width: 320px) and (max-width: 768px) {
+      width: 30px;
+    }
   }
   & span {
     font-family: 'Unbounded', sans-serif;
@@ -31,8 +35,8 @@ export const DIVLOGO = styled.div`
     text-transform: uppercase;
     transition: all 0.6s ease;
 
-    @media (min-width: 1024px) {
-      font-size: 30px;
+    @media (min-width: 320px) and (max-width: 768px) {
+      font-size: 14px;
     }
 
     &:hover {
@@ -158,6 +162,12 @@ export const BtnMenu = styled.button`
 
 export const NAV = styled.nav`
   display: flex;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  backdrop-filter: blur(10px);
+  background-color: #1f273280;
 
   width: 100%;
   flex-direction: column;
@@ -186,6 +196,10 @@ export const BTN = styled.button`
   margin: 0 20px;
   color: ${colors.primary};
   transition: all 0.6s ease;
+
+  @media (min-width: 320px) and (max-width: 768px) {
+    font-size: 12px;
+  }
 
   &:hover {
     background-color: ${colors.lightGray};
