@@ -166,7 +166,7 @@ export const NAV = styled.nav`
   top: 0;
   width: 100%;
   z-index: 1000;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(80px);
   background-color: #1f273280;
 
   width: 100%;
