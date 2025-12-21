@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sanX/static/css/main.7d930f89.css",
-    "main.js": "/sanX/static/js/main.d7781f27.js",
+    "main.js": "/sanX/static/js/main.8c816d83.js",
     "static/media/antonPalashek.png": "/sanX/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
     "static/media/bgmain.jpg": "/sanX/static/media/bgmain.2cd8c5c166c966001ab5.jpg",
     "static/media/sertificat.png": "/sanX/static/media/sertificat.0aec8e6a2d38eec234d0.png",
@@ -15,10 +15,10 @@
     "static/media/memCard.png": "/sanX/static/media/memCard.b375c309be90e72ef5bd.png",
     "index.html": "/sanX/index.html",
     "main.7d930f89.css.map": "/sanX/static/css/main.7d930f89.css.map",
-    "main.d7781f27.js.map": "/sanX/static/js/main.d7781f27.js.map"
+    "main.8c816d83.js.map": "/sanX/static/js/main.8c816d83.js.map"
   },
   "entrypoints": [
     "static/css/main.7d930f89.css",
-    "static/js/main.d7781f27.js"
+    "static/js/main.8c816d83.js"
   ]
 }
