@@ -27,9 +27,9 @@ export const Navigation = () => {
       <DIVNAV>
         <DIVLOGO onClick={backHome}>
           <img src={logo} alt="Logo" />
-          <span>ГІЛЬДІЯ ФАХІВЦІВ З НЕРУХОМОСТІ УКРАЇНИ</span>
+          <span>Спілка агентств нерухомості харкова</span>
         </DIVLOGO>
-        <BTN onClick={joy}>Вступ до ГФНУ</BTN>
+        <BTN onClick={joy}>Вступ до САНХ</BTN>
         <BtnMenu className="menu" onClick={toggleMobMenu}>
           <VscMenu />
         </BtnMenu>
