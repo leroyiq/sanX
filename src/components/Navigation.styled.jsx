@@ -17,7 +17,7 @@ export const DIVLOGO = styled.div`
     padding-right: 15px;
   }
   & span {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Unbounded', sans-serif;
     font-size: 20px;
     text-align: center;
     letter-spacing: 0px;
@@ -28,7 +28,7 @@ export const DIVLOGO = styled.div`
     font-weight: normal;
     text-decoration: none;
     font-style: normal;
-    text-transform: none;
+    text-transform: uppercase;
     transition: all 0.6s ease;
 
     @media (min-width: 1024px) {
@@ -108,7 +108,7 @@ export const BtnMenu = styled.button`
   cursor: pointer;
 
   font-size: 22px;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Unbounded', sans-serif;
   color: ${colors.primary};
   transition: all 0.6s ease;
 
@@ -163,7 +163,7 @@ export const NAV = styled.nav`
   flex-direction: column;
   align-items: center;
   width: 100%;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Unbounded', sans-serif;
   font-optical-sizing: auto;
   border-color: transparent;
   color: ${colors.primary};
@@ -182,7 +182,7 @@ export const BTN = styled.button`
   cursor: pointer;
 
   font-size: 16px;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Unbounded', sans-serif;
   margin: 0 20px;
   color: ${colors.primary};
   transition: all 0.6s ease;
