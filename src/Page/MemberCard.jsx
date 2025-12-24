@@ -14,7 +14,7 @@ export const MemberCard = () => {
     return (
       <MemberDiv>
         <MemberForm>
-          <h2>Дійсний член ГФНУ</h2>
+          <h2>Дійсний член САНХ</h2>
           <img src={fotoId} alt={name} />
           <h3>
             {name} {surname}

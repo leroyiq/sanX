@@ -39,7 +39,7 @@ export const MemberDiv = styled.div`
 
   & li {
     margin-bottom: 10px;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Unbounded', sans-serif;
     line-height: 1.5;
 
     &.contactsItem {
@@ -74,7 +74,7 @@ export const MemberDiv = styled.div`
   & span {
     /* text-align: center; */
 
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Unbounded', sans-serif;
     /* margin-left: 10px; */
     margin-right: 10px;
     line-height: 1.5;
@@ -90,7 +90,7 @@ export const MemberDiv = styled.div`
     width: 90%;
     /* text-align: justify; */
     font-size: 14px;
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Unbounded', sans-serif;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-top: 10px;
