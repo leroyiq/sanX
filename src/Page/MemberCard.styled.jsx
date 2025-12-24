@@ -1,11 +1,11 @@
 import styled from 'styled-components';
 import { colors } from 'themes/const';
 import bg from '../img/memCard.png';
+
 export const MemberForm = styled.form`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  /* align-items: center; */
   gap: 10px;
   border-radius: 10px;
   max-width: 400px;
@@ -19,16 +19,14 @@ export const MemberForm = styled.form`
 
   & h2 {
     text-align: center;
-    font-size: 25px;
-    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
     margin: 0;
     color: ${colors.acent};
   }
 
   & h3 {
     text-align: center;
-    font-size: 32px;
-    font-family: 'Cormorant Garamond', serif;
+    font-size: 20px;
     color: ${colors.acent};
     margin: 0;
     display: block;
@@ -42,7 +40,6 @@ export const MemberForm = styled.form`
     height: auto;
     object-fit: cover;
     align-self: center;
-    /* padding-bottom: 20px; */
   }
 
   & label {
@@ -59,14 +56,13 @@ export const MemberForm = styled.form`
     & input {
       text-align: center;
       color: ${colors.primary};
-      font-size: 22px;
+      font-size: 20px;
       background-color: ${colors.darkGray};
-      /* border-radius: 10px; */
       border: none;
 
       width: 40%;
       padding: 5px 10px;
-      font-family: 'Cormorant Garamond', serif;
+
       &.active {
         color: ${colors.success};
       }
