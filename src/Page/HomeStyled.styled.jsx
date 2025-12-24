@@ -7,27 +7,45 @@ export const DIVHome = styled.div`
   align-items: center;
   justify-content: center;
   width: 100%;
-  gap: 20px;
-  margin-top: 20px;
+  /* gap: 20px; */
+  /* margin-top: 20px; */
   padding-bottom: 20px;
 
-  & span {
+  & div {
     display: flex;
-    align-items: center;
+    align-items: start;
     justify-content: center;
-    gap: 10px;
+    /* gap: 10px; */
     flex-direction: column;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    color: ${colors.acent};
+    /* margin-top: 20px; */
+    /* margin-bottom: 20px; */
+    /* color: ${colors.acent}; */
+
+    /* width: 100%; */
+    min-height: 100vh;
+
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 
     @media (min-width: 1024px) {
       width: 100%;
-  }
+    }
 
-  & img {
-    display: block;
-    width: 90%;
-    box-shadow: 0px 0px 20px 5px rgba(240, 202, 10, 0.18);
-  }}
+    & h2 {
+      font-family: 'comfortaa', sans-serif;
+      font-size: 35px;
+      margin-bottom: 10px;
+      align-items: flex-start;
+      text-align: start;
+      padding-left: 50px;
+      max-width: 30%;
+    }
+    & pre {
+      font-family: 'comfortaa', sans-serif;
+      font-size: 35px;
+      padding-left: 50px;
+      max-width: 100vh;
+    }
+  }
 `;

@@ -22,7 +22,7 @@ export const DIVLOGO = styled.div`
   }
   & span {
     font-family: 'Unbounded', sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
     letter-spacing: 0px;
     color: ${colors.primary};
@@ -167,7 +167,7 @@ export const NAV = styled.nav`
   width: 100%;
   z-index: 1000;
   backdrop-filter: blur(80px);
-  background-color: #1f273280;
+  background-color: ${colors.fluid};
 
   width: 100%;
   flex-direction: column;
@@ -249,7 +249,7 @@ export const BtnClose = styled.button`
   top: 20px;
   right: 20px;
   font-size: 16px;
-  font-family: 'Comfortaa', sans-serif;
+  font-family: 'Unbounded', sans-serif;
   color: ${colors.primary};
   transition: all 0.6s ease;
 
