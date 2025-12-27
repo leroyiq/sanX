@@ -7,10 +7,12 @@ import {
   FaWhatsapp,
   FaCcVisa,
 } from 'react-icons/fa';
+import introBg from '../img/introBg.jpg';
 
 export const Introduction = () => {
   return (
     <MemberDiv>
+      <img src={introBg} alt="w" />
       <h3>Набуття членства у САНХ.</h3>
       <ol>
         <li>

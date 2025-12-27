@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { colors } from 'themes/const';
+import homeBg from '../img/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.jpg';
 
 export const DIVHome = styled.div`
   display: flex;
@@ -7,45 +8,65 @@ export const DIVHome = styled.div`
   align-items: center;
   justify-content: center;
   width: 100%;
-  /* gap: 20px; */
-  /* margin-top: 20px; */
+  gap: 20px;
+
   padding-bottom: 20px;
 
-  & div {
+  & section {
     display: flex;
     align-items: start;
-    justify-content: center;
-    /* gap: 10px; */
+    justify-content: start;
     flex-direction: column;
-    /* margin-top: 20px; */
-    /* margin-bottom: 20px; */
-    /* color: ${colors.acent}; */
-
-    /* width: 100%; */
-    min-height: 100vh;
-
-    background-position: 100%;
-    background-repeat: no-repeat;
+    width: 100%;
+    height: 600px;
+    background-image: url('${homeBg}');
     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
-    @media (min-width: 1024px) {
+    & div {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      font-size: 16px;
+      padding: 10px;
+      text-align: center;
+      width: 40%;
+      height: 100%;
+
+      & h2 {
+        color: ${colors.acent};
+
+        display: flex;
+        background-color: ${colors.darker};
+
+        line-height: 1.5;
+        padding: 10px;
+        border-radius: 10px;
+      }
+
+      & p {
+        line-height: 1.5;
+        font-size: inherit;
+      }
+
+      @media (min-width: 320px) and (max-width: 480px) {
+        width: 50%;
+        font-size: 10px;
+        height: 80%;
+      }
+
+      @media (max-width: 768px) and (min-width: 1024px) {
+        width: 50%;
+        flex-direction: column;
+        font-size: 16px;
+      }
+    }
+
+    @media (max-width: 768px) {
       width: 100%;
-    }
-
-    & h2 {
-      font-family: 'comfortaa', sans-serif;
-      font-size: 35px;
-      margin-bottom: 10px;
-      align-items: flex-start;
-      text-align: start;
-      padding-left: 50px;
-      max-width: 30%;
-    }
-    & pre {
-      font-family: 'comfortaa', sans-serif;
-      font-size: 35px;
-      padding-left: 50px;
-      max-width: 100vh;
     }
   }
 `;

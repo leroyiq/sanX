@@ -1,10 +1,11 @@
 import React from 'react';
 // import GfnuLogo from '../img/gfnu.png';
 import { MemberDiv } from './Membership.styled';
-
+import aboutasBg from '../img/aboutasBg.jpg';
 export const AboutUs = () => {
   return (
     <MemberDiv>
+      <img src={aboutasBg} alt="w" />
       <p>
         однією з наймасовіших організацій рієлтор України та наразі нараховує
         1785 членів. Ми об'єднання по справжньому професійних рієлторів які

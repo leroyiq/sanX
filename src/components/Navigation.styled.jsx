@@ -54,10 +54,10 @@ export const UL = styled.ul`
   color: ${colors.primary};
   list-style: none;
   gap: 30px;
-  border-bottom: 1px solid ${colors.lightGray};
+  /* border-bottom: 1px solid ${colors.lightGray}; */
   border-top: 1px solid ${colors.lightGray};
-  padding-top: 20px;
-  padding-bottom: 20px;
+  /* padding-top: 20px; */
+  /* padding-bottom: 20px; */
 
   @media (min-width: 1024px) {
     display: flex;
@@ -111,7 +111,7 @@ export const BtnMenu = styled.button`
   background-color: ${colors.fluid};
   cursor: pointer;
 
-  font-size: 22px;
+  font-size: 16px;
   font-family: 'Unbounded', sans-serif;
   color: ${colors.primary};
   transition: all 0.6s ease;
@@ -314,7 +314,7 @@ export const NavLinkStyled = styled(NavLink)`
   text-decoration: none;
   color: ${colors.primary};
   padding: 1em 1.5em;
-  font-size: 18px;
+  font-size: 16px;
   transition: all 0.5s ease;
   margin-left: 1.5em;
 
