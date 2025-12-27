@@ -1,11 +1,13 @@
 import React from 'react';
 import { MemberDiv } from './Membership.styled';
 // import { NavLink, Outlet } from 'react-router-dom';
+import memberBg from '../img/memberBg.jpg';
 
 export const Membership = () => {
   return (
     <>
       <MemberDiv>
+        <img src={memberBg} alt="w" />
         <span>
           Задля нерозповсюдження зайвої інформації членство ріелтора у САНХ
           надійно перевіряється тільки шляхом сканування QR коду з його

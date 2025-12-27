@@ -7,11 +7,18 @@ export const MemberDiv = styled.div`
   justify-content: start;
   align-items: center;
   width: 100%;
-  padding-top: 20px;
+  /* padding-top: 20px; */
   padding-bottom: 20px;
   margin: 0 auto;
   font-size: 16px;
   gap: 20px;
+
+  & img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: 50% 60%;
+  }
 
   & .payLink {
     color: ${colors.acent};

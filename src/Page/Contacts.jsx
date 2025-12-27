@@ -4,10 +4,12 @@ import { FaViber } from 'react-icons/fa';
 import { FaWhatsapp } from 'react-icons/fa';
 import { FaTelegram } from 'react-icons/fa';
 import { FaInstagram } from 'react-icons/fa';
+import contatsBG from '../img/contatsBg.jpg';
 
 export const Contacts = () => {
   return (
     <MemberDiv>
+      <img src={contatsBG} alt="w" />
       <h2>Наші контакти</h2>
       <ul>
         <li className="contactsItem">
