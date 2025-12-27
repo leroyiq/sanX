@@ -1,7 +1,12 @@
 {
   "files": {
     "main.css": "/sanX/static/css/main.7d930f89.css",
-    "main.js": "/sanX/static/js/main.365cafe2.js",
+    "main.js": "/sanX/static/js/main.0e703471.js",
+    "static/media/memberBg.jpg": "/sanX/static/media/memberBg.b4da9a16acec9b5bc24e.jpg",
+    "static/media/aboutasBg.jpg": "/sanX/static/media/aboutasBg.4ba71052a010b4422e1d.jpg",
+    "static/media/contatsBg.jpg": "/sanX/static/media/contatsBg.78c0d6783cf1a75c7338.jpg",
+    "static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.jpg": "/sanX/static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.c768802c48a30e28594f.jpg",
+    "static/media/introBg.jpg": "/sanX/static/media/introBg.b14b2c75df0303c4d385.jpg",
     "static/media/antonPalashek.png": "/sanX/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
     "static/media/bgmain.jpg": "/sanX/static/media/bgmain.2cd8c5c166c966001ab5.jpg",
     "static/media/Ugo-Zapad.png": "/sanX/static/media/Ugo-Zapad.4e4b46926b3af7a1f6d3.png",
@@ -12,10 +17,10 @@
     "static/media/memCard.png": "/sanX/static/media/memCard.b375c309be90e72ef5bd.png",
     "index.html": "/sanX/index.html",
     "main.7d930f89.css.map": "/sanX/static/css/main.7d930f89.css.map",
-    "main.365cafe2.js.map": "/sanX/static/js/main.365cafe2.js.map"
+    "main.0e703471.js.map": "/sanX/static/js/main.0e703471.js.map"
   },
   "entrypoints": [
     "static/css/main.7d930f89.css",
-    "static/js/main.365cafe2.js"
+    "static/js/main.0e703471.js"
   ]
 }
