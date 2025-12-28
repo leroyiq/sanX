@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/sanX/static/css/main.7d930f89.css",
-    "main.js": "/sanX/static/js/main.0e703471.js",
-    "static/media/memberBg.jpg": "/sanX/static/media/memberBg.b4da9a16acec9b5bc24e.jpg",
-    "static/media/aboutasBg.jpg": "/sanX/static/media/aboutasBg.4ba71052a010b4422e1d.jpg",
-    "static/media/contatsBg.jpg": "/sanX/static/media/contatsBg.78c0d6783cf1a75c7338.jpg",
-    "static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.jpg": "/sanX/static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.c768802c48a30e28594f.jpg",
-    "static/media/introBg.jpg": "/sanX/static/media/introBg.b14b2c75df0303c4d385.jpg",
+    "main.js": "/sanX/static/js/main.79d2421e.js",
     "static/media/antonPalashek.png": "/sanX/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
     "static/media/bgmain.jpg": "/sanX/static/media/bgmain.2cd8c5c166c966001ab5.jpg",
     "static/media/Ugo-Zapad.png": "/sanX/static/media/Ugo-Zapad.4e4b46926b3af7a1f6d3.png",
+    "static/media/aboutasBg.jpg": "/sanX/static/media/aboutasBg.b1ca8cc0011ccdff46fc.jpg",
+    "static/media/memberBg.jpg": "/sanX/static/media/memberBg.c4847ab3a548e6e9f817.jpg",
+    "static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.jpg": "/sanX/static/media/vecteezy_investment-loan-approval-concepts-build-residential-homes_26398793.38be79be8edd5668f265.jpg",
+    "static/media/contatsBg.jpg": "/sanX/static/media/contatsBg.78f8e16b3f5ad4f3e996.jpg",
     "static/media/kalaturOlena.png": "/sanX/static/media/kalaturOlena.91ed7c9e4353fed0a2ca.png",
     "static/media/fenikRostislav.png": "/sanX/static/media/fenikRostislav.bf56b18cbc2b483014f7.png",
+    "static/media/introBg.jpg": "/sanX/static/media/introBg.6848da3f8e7b3438ad7d.jpg",
     "static/media/fenikOleg.png": "/sanX/static/media/fenikOleg.b278f3fd0dadcac3c2a4.png",
     "static/media/logo.png": "/sanX/static/media/logo.9feab6176c6b566070bd.png",
     "static/media/memCard.png": "/sanX/static/media/memCard.b375c309be90e72ef5bd.png",
     "index.html": "/sanX/index.html",
     "main.7d930f89.css.map": "/sanX/static/css/main.7d930f89.css.map",
-    "main.0e703471.js.map": "/sanX/static/js/main.0e703471.js.map"
+    "main.79d2421e.js.map": "/sanX/static/js/main.79d2421e.js.map"
   },
   "entrypoints": [
     "static/css/main.7d930f89.css",
-    "static/js/main.0e703471.js"
+    "static/js/main.79d2421e.js"
   ]
 }
