@@ -17,7 +17,7 @@ export const MemberDiv = styled.div`
     width: 100%;
     height: 200px;
     object-fit: cover;
-    object-position: 50% 60%;
+    object-position: 50% 70%;
   }
 
   & .payLink {
