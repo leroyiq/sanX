@@ -36,7 +36,7 @@ export const MemberForm = styled.form`
 
   & img {
     display: block;
-    width: 150px;
+    width: 70%;
     height: auto;
     object-fit: cover;
     align-self: center;
