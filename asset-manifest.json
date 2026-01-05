@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sanX/static/css/main.7d930f89.css",
-    "main.js": "/sanX/static/js/main.79d2421e.js",
+    "main.js": "/sanX/static/js/main.5d5609d5.js",
     "static/media/antonPalashek.png": "/sanX/static/media/antonPalashek.fc01ba39e8da525fde2a.png",
     "static/media/bgmain.jpg": "/sanX/static/media/bgmain.2cd8c5c166c966001ab5.jpg",
     "static/media/Ugo-Zapad.png": "/sanX/static/media/Ugo-Zapad.4e4b46926b3af7a1f6d3.png",
@@ -17,10 +17,10 @@
     "static/media/memCard.png": "/sanX/static/media/memCard.b375c309be90e72ef5bd.png",
     "index.html": "/sanX/index.html",
     "main.7d930f89.css.map": "/sanX/static/css/main.7d930f89.css.map",
-    "main.79d2421e.js.map": "/sanX/static/js/main.79d2421e.js.map"
+    "main.5d5609d5.js.map": "/sanX/static/js/main.5d5609d5.js.map"
   },
   "entrypoints": [
     "static/css/main.7d930f89.css",
-    "static/js/main.79d2421e.js"
+    "static/js/main.5d5609d5.js"
   ]
 }
