@@ -5,7 +5,7 @@ import {
   FaTelegram,
   FaViber,
   FaWhatsapp,
-  FaCcVisa,
+  // FaCcVisa,
 } from 'react-icons/fa';
 import introBg from '../img/introBg.jpg';
 
@@ -34,9 +34,9 @@ export const Introduction = () => {
         <li>
           Свідоцтво та сертифікат САНХ видаються безкоштовно, але треба сплатити
           послуги друкарні по
-          <a className="payLink" href="#pay" style={{ display: 'inline' }}>
+          {/* <a className="payLink" href="#pay" style={{ display: 'inline' }}>
             &nbsp;реквізитам&nbsp;
-          </a>
+          </a> */}
           вказаним нижче, з вказівкою "друк для САНХ".
         </li>
         <li>
@@ -53,30 +53,30 @@ export const Introduction = () => {
       <h3>Вступити до САНХ</h3>
       <ul>
         <li className="contactsItem">
-          <a href="viber://chat?number=%2B380932394579">
+          <a href="https://www.google.com/">
             <FaViber className="contactIcon" />
             Viber
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://wa.me/380932394579">
+          <a href="https://www.google.com/">
             <FaWhatsapp className="contactIcon" />
             Whatsapp
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://t.me/G_f_n_u">
+          <a href="https://www.google.com/">
             <FaTelegram className="contactIcon" />
             Telegram
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://www.instagram.com/gfnu_2024?igsh=aDVmdjlndXlhZ2Yy">
+          <a href="https://www.google.com/">
             <FaInstagram className="contactIcon" />
             Instagram
           </a>
         </li>
-        <li className="contactsItem">
+        {/* <li className="contactsItem">
           <FaCcVisa className="contactIcon" />
           <details id="pay">
             <summary>Реквізити для оплати друку</summary>
@@ -111,7 +111,7 @@ export const Introduction = () => {
               </tr>
             </table>
           </details>
-        </li>
+        </li> */}
       </ul>
     </MemberDiv>
   );
