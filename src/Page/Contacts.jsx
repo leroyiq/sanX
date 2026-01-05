@@ -13,25 +13,25 @@ export const Contacts = () => {
       <h2>Наші контакти</h2>
       <ul>
         <li className="contactsItem">
-          <a href="viber://chat?number=%2B380932394579">
+          <a href="https://www.google.com/">
             <FaViber className="contactIcon" />
             Viber
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://wa.me/380932394579">
+          <a href="https://www.google.com/">
             <FaWhatsapp className="contactIcon" />
             Whatsapp
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://t.me/G_f_n_u">
+          <a href="https://www.google.com/">
             <FaTelegram className="contactIcon" />
             Telegram
           </a>
         </li>
         <li className="contactsItem">
-          <a href="https://www.instagram.com/gfnu_2024?igsh=aDVmdjlndXlhZ2Yy">
+          <a href="https://www.google.com/">
             <FaInstagram className="contactIcon" />
             Instagram
           </a>
